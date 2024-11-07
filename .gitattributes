@@ -1,2 +1,2 @@
-dist/* linguist-vendored=false
+dist/* linguist-vendored=true
 *.sql linguist-detectable=true
